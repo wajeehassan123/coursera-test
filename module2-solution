@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+
+
+
+
+
+
+<head>
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="roshan.css">
+	<meta charset="utf-8">
+	<title>ROSHAAN</title>
+
+
+<style type="text/css">
+
+
+
+div.makeMeBlue p {
+  color: blue;
+}
+
+
+div > p {
+  color: blue;
+}
+
+
+
+
+
+div:hover {  
+  font-size: 24px;
+}
+
+</style>
+</head>
+
+
+
+
+
+<body>
+
+
+
+
+<div>
+  <div>
+    <div class="makeMeBlue">
+      <p>I am feeling blue</p>
+    </div>
+  </div>
+  <section class="makeMeBlue">
+    <p>I just want to be left alone!</p>
+  </section>
+</div>
+
+
+
+
+<div>
+  <p>I am feeling blue</p>
+</div>
+<section>
+  <p>I just want to be left alone!</p>
+</section>
+
+</body>
+
+
+<a>
+  <div>Div 1</div>
+  <div>Div 2</div>
+  <div>Div 3</div>
+  <div>Div 4</div>
+  <div>Div 5</div>
+  <div>Div 6</div>
+</a>
+
+</html>
