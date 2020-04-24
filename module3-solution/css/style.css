@@ -1,0 +1,124 @@
+body {
+    font-size: 16px;
+    font-family: cursive;
+    color: white;
+    background-color: gray;
+}
+
+
+#header-nav {
+    
+    border-radius: 0;
+    border: 0;
+    height: 90px;
+    border:1px 1px 1px white;
+}
+
+#header-nav button {
+    margin-top: 22px;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: black;
+}
+
+.navbar-collapse {
+    border-top: 0;
+    border:1px 1px 1px white;   
+}
+
+.navbar-brand, .navbar-nav li a {
+    line-height: 76px;
+    height: 76px;
+    padding-top: 0;
+}
+
+.navbar-brand h1 {
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: bolder;
+    font-size: 28px;
+    padding-bottom: 100%;
+    text-shadow: 1px 1px 1px black;
+}
+
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 1.5px 1.5px 1.5px black;
+}
+
+#nav-list {
+    background-color: darkslategray;
+}
+
+#nav-list a {
+   
+    font-weight: bolder;
+    color: white;
+    font-size: 1.2em;
+    font-family: cursive;
+}
+
+#nav-list a:hover {
+    color:black ;
+    background-color: white;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid white;
+}
+#main-heading{
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: bolder;
+    font-size: 40px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    text-shadow: 1px 1px 1px black;
+
+
+}
+#main-content{
+    width: 92%;
+    margin-bottom: 30px;
+    margin-top: 100px;
+    padding-bottom: 100px;
+
+
+
+}
+#main-content h3{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding-bottom: 20px;
+    padding-top: 40px;
+    font-family: cursive;
+
+}
+#chicken-tile h3{
+    color: darkred;
+}
+#beef-tile h3{
+    color:saddlebrown;
+}
+#sushi-tile h3{
+    color: darkslateblue;
+}
+p{
+    font-family: cursive;
+    font-size: 16px;
+}
+
+
+
+#chicken-tile, #beef-tile, #sushi-tile{
+    
+    background-color: aquamarine       ;
+    width: 100%;
+    padding:20px;
+    margin-bottom: 60px;
+    box-shadow: 0 0 80px #18580b;
+}
+
